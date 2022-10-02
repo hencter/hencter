@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Java, JavaScript, Vue.js, Linux.
+- 🌱 I’m currently learning:
+  - Psersonal: Vim, Neovim, Linux
+  - Lang: Java, JavaScript, Go
+  - Front End: Vue.js
+  - Back End: Spring
+  
 - 📼 Share some files: [ysepan](http://hencter.ysepan.com/)
 - 💬 Ask me about, you can send email or at the ysepan submit the message and I can see it.
 - 😄 Pronouns: 亦幸.
