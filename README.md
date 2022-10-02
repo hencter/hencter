@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning:
   - Psersonal: Vim, Neovim, Linux
-  - Lang: Java, JavaScript, Go
+  - Script: JavaScript, Python
+  - Lang: Java, Go
   - Front End: Vue.js
   - Back End: Spring
   
