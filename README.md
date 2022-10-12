@@ -1,25 +1,3 @@
 # Hi, here. 👋
 
-<!--
-**binggg/binggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I’m currently learning:
-  - Psersonal: Vim, Neovim, Linux
-  - Script: JavaScript, Python
-  - Lang: Java, Go
-  - Front End: Vue.js
-  - Back End: Spring
-  
-- 📼 Share some files: [ysepan](http://hencter.ysepan.com/)
-- 💬 Ask me about, you can send email or at the ysepan submit the message and I can see it.
-- 😄 Pronouns: 亦幸.
+[Blog](https://hencter.top/)
