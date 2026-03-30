@@ -1,3 +1,8 @@
 # Hi, I'm here. 👋
 
-[me](https://hencte.top/)
+- [Me](https://hencte.top/)
+  - [Blog](https://hencte.top/blog/)
+- [Link Trust](https://linktrust.top)
+  - [AI Prompt Academy](https://ai.linktrust.top/)
+
+
