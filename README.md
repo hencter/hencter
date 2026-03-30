@@ -1,3 +1,3 @@
-# Hi, here. 👋
+# Hi, I'm here. 👋
 
-[Blog](https://hencter.top/)
+[me](https://hencte.top/)
