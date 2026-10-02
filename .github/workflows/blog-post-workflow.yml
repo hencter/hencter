@@ -1,0 +1,29 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # 每天北京时间 09:00（UTC 01:00）
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-posts:
+    name: Sync latest posts into README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull posts from RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://hencte.top/rss.xml"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title]($url)"
+          date_format: "yyyy-mm-dd"
+          title_max_length: 80
+          commit_message: "chore: 同步最新博客文章 [skip ci]"
