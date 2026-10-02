@@ -53,6 +53,10 @@
 
 ## 🚀 精选项目 · Featured Projects
 
+**[workers-ledger](https://github.com/hencter/workers-ledger)** · [在线读](https://workersledger.cn/)
+劳动者的账本：中国大陆劳动权益与合规的循证指南，15 节 324 条，每条标明效力位阶、主张强度、举证难度与时效，依据只引官方一手文件。另有 709 页 PDF 与离线单文件。
+<sub>*An evidence-based handbook of labour rights and compliance in mainland China — 324 entries, each labelled with legal hierarchy, claim strength, evidentiary difficulty and limitation periods.*</sub>
+
 **[hugozh](https://github.com/hencter/hugozh)** · [hugozh.cn](https://hugozh.cn/)
 Hugo 官方文档简体中文翻译（社区维护，非官方）：19 个一级章节、948 页，保留英文原文方便对照。
 <sub>*Community Simplified-Chinese translation of the official Hugo documentation — 948 pages across 19 chapters.*</sub>
