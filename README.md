@@ -88,11 +88,11 @@ TongTop Store：基于 Tauri 的桌面应用商店，含 Winget 分发包。
 ## ✍️ 最新文章 · Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [手艺会死，品味长寿](https://hencte.top/log/craft-dies-taste-lasts) · 2026-09-17
-- [GEO 两年：我翻了 16 个一手信源，把这门生意的真话和谎话分开](https://hencte.top/tech/geo-two-years) · 2026-09-02
-- [GEO, Two Years In: What 16 Primary Sources Reveal About the Truth, the Lies, and the Money](https://hencte.top/tech/geo-two-years-en) · 2026-09-02
-- [AI 最大的瓶颈，不是不会做事，而是不会记得你](https://hencte.top/tech/ai-memory-bottleneck) · 2026-07-24
-- [AI 安全护栏正在把谁推向开源模型](https://hencte.top/tech/ai-guardrail) · 2026-07-24<!-- BLOG-POST-LIST:END -->
+- [手艺会死，品味长寿](https://hencte.top/log/craft-dies-taste-lasts/) · 2026-09-17
+- [GEO, Two Years In: What 16 Primary Sources Reveal About the Truth, the Lies, and the Money](https://hencte.top/tech/geo-two-years-en/) · 2026-09-02
+- [GEO 两年：我翻了 16 个一手信源，把这门生意的真话和谎话分开](https://hencte.top/tech/geo-two-years/) · 2026-09-02
+- [ChatGPT 开始接入健康数据，但真正值钱的不是医疗问答](https://hencte.top/tech/chatgpt-health-data/) · 2026-07-24
+- [AI 最大的瓶颈，不是不会做事，而是不会记得你](https://hencte.top/tech/ai-memory-bottleneck/) · 2026-07-24<!-- BLOG-POST-LIST:END -->
 
 ---
 
