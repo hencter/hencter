@@ -6,11 +6,11 @@
 
 *Always a simple child who is happy to learn.*
 
-把知识、代码与产品串成一条线：用 Astro 建站，用 Three.js 做交互，用 Tauri 做桌面端，用 AI 代理把重复劳动交出去。
+把知识、代码与产品串成一条线：用 Hugo 建站，用 Three.js 做交互，用 Tauri 做桌面端，用 AI 代理把重复劳动交出去。
 
 *I connect knowledge, code and products — static sites, 3D interaction, local-first desktop tools, and AI agent workflows.*
 
-[![Website](https://img.shields.io/badge/hencte.top-0891B2?style=flat-square&logo=astro&logoColor=white)](https://hencte.top/)
+[![Website](https://img.shields.io/badge/hencte.top-0891B2?style=flat-square&logo=hugo&logoColor=white)](https://hencte.top/)
 [![Blog](https://img.shields.io/badge/Blog-4B5563?style=flat-square&logo=rss&logoColor=white)](https://hencte.top/blog/)
 [![Link Trust](https://img.shields.io/badge/Link_Trust-0F766E?style=flat-square)](https://linktrust.top)
 [![AI Prompt Academy](https://img.shields.io/badge/AI_Prompt_Academy-7C3AED?style=flat-square)](https://ai.linktrust.top/)
