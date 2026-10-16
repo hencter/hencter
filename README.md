@@ -88,11 +88,11 @@ TongTop Store：基于 Tauri 的桌面应用商店，含 Winget 分发包。
 ## ✍️ 最新文章 · Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [编译过了，界面还得靠猜——Agent 驱动下我暂时放下 GPUI Kit](https://hencte.top/log/compile-passed-ui-still-guesswork/) · 2026-10-15
 - [短代码速查](https://hencte.top/shortcodes/) · 2026-10-03
-- [手艺会死，品味长寿](https://hencte.top/log/craft-dies-taste-lasts/) · 2026-09-17
+- [手艺会死，品味长寿](https://hencte.top/xingzhi/craft-dies-taste-lasts/) · 2026-09-17
 - [GEO 两年：我翻了 16 个一手信源，把这门生意的真话和谎话分开](https://hencte.top/tech/2026-09-02-geo-two-years/) · 2026-09-02
-- [ChatGPT 开始接入健康数据，但真正值钱的不是医疗问答](https://hencte.top/tech/chatgpt-health-data/) · 2026-07-24
-- [AI 最大的瓶颈，不是不会做事，而是不会记得你](https://hencte.top/tech/ai-memory-bottleneck/) · 2026-07-24<!-- BLOG-POST-LIST:END -->
+- [ChatGPT 开始接入健康数据，但真正值钱的不是医疗问答](https://hencte.top/xingzhi/chatgpt-health-data/) · 2026-07-24<!-- BLOG-POST-LIST:END -->
 
 ---
 
