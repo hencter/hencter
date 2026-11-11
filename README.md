@@ -24,7 +24,7 @@
 
 ## 🧑💻 关于我 · About
 
-我做三件事：把零散知识整理成可复用的资产，把想法做成真的能用的产品，把重复劳动交给工具和代理。
+我做三件事：把零散知识整理成可复用的资产，把想法做成真的能用的产品，把重复劳动交给工具和智能体们。
 
 *Three things I care about: turning scattered knowledge into reusable assets, shipping ideas as working products, and handing repetitive work to tools and agents.*
 
